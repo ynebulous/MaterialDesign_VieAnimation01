@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:duration = "2000"
+    android:fillAfter="true"
+    android:fromXDelta="0"
+    android:fromYDelta="0"
+    android:toXDelta="200"
+    android:toYDelta="-500"
+    >
+
+
+</translate>
+
+<!--
+    <view animation 종류>
+    duration : 지속시간 (밀리초 단위 : 5000이면 5초)
+    fromXDelta : 이동 시작 위치 (0이면 제자리)
+    fromYDelta : 이동 종료 위치 (+숫자면 x축에서 오른쪽, -면 왼쪽)
+-->
